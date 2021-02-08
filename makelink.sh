@@ -1,0 +1,1 @@
+curl http://localhost:9001/v1/link -X POST -d "{\"url\":\"http://www.robotmermaid.com\"}" -H 'Content-Type: application/json'
